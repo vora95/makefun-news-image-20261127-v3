@@ -98,4 +98,9 @@
 - Verified by viewing the render (full + 3 zoom crops): all 42 stories,
   timeline, numbers, tags, sources, map pins, DATE CHECK, footer legible;
   glyphs -> (arrow) and 1/2 render correctly in Liberation fonts.
-- [commit sha + badge checks to be added after git push]
+- 27 Nov ~08:10 WIB: committed 1993db5, mirrored to GitHub
+  (FINAL 1993db59b5bcb5bdfc32876636a528949b3ac0f8). Verified live:
+  owner.json wallet = 5goaBcbHQvUSz9q5SAbZPQVNcSZ4NvVWWNJnwHiQZsmb;
+  created_at 2026-11-27T00:56:31Z (after competition opened 00:00 UTC);
+  topics include exact 'makefun'; rank + reward badges both HTTP 200.
+- NOT SUBMITTED — parent bundles, checks, and submits.
