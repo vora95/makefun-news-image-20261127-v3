@@ -1,5 +1,6 @@
 # THE WORLD IN ONE DAY — Friday 27 November 2026
 
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127)
 [![Rank](https://make.fun/badge/news-image-20261127/vora95/makefun-news-image-20261127-v3/rank.svg)](https://make.fun/bounty/news-image-20261127)
 [![Reward](https://make.fun/badge/news-image-20261127/vora95/makefun-news-image-20261127-v3/reward.svg)](https://make.fun/bounty/news-image-20261127)
 
